@@ -1,5 +1,5 @@
 ## Welcome To My Mind Hacking 👋
-Hello there. I'm thrilled to share my learning notes in this repo.
+Hi there. I'm thrilled to share my learning notes in this repo.
 
 
 
