@@ -1,9 +1,6 @@
 ## Welcome To My Mind Hacking 👋
 Hello there. I'm thrilled to share my learning notes in this repo.
 
-#### A Bottom-Up Approach for Choosing the Right Database for your workload
-Choosing the right database for a software application can be a critical decision as it can impact the performance, scalability, and functionality of the application. [Read]()
-May 10, 2023
 
 
 <!--
