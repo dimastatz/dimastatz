@@ -1,5 +1,5 @@
 ## Welcome To My Mind Hacking 👋
-Hi there. I'm thrilled to share my learning notes in this repo.
+[If you can't program it, you haven't understood it](https://twitter.com/DavidDeutschOxf/status/1282661240100335616)
 
 
 
