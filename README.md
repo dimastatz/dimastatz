@@ -1,5 +1,5 @@
 
-<i>[If you can't program it, you haven't understood it 😄](https://twitter.com/DavidDeutschOxf/status/1282661240100335616)</i>
+[If you can't program it, you haven't understood it 😄](https://twitter.com/DavidDeutschOxf/status/1282661240100335616)
 
 
 
